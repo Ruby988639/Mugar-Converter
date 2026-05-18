@@ -991,12 +991,10 @@ input:checked + .geser:before {
     color: #fbbf24;
 }
 
-.label-100 { top: 0; right: 20px; color: #f59e0b; }
-.label-75 { bottom: 60px; left: -20px; color: #fbbf24; }
-.label-50 { bottom: 0; right: 60px; color: #fcd34d; }
-.label-25 { top: 120px; right: -30px; color: #fde047; }
-
-.distribusi-bars {
+.label-100 { top: 30px; right: 20px; color: #f59e0b; }
+.label-75 { bottom: 60px; right: -10px; color: #fbbf24; }
+.label-50 { bottom: 60px; left: 0px; color: #fcd34d; }
+.label-25 { top: 90px; left: -20px; color: #fde047; }.distribusi-bars {
     flex: 1;
     min-width: 300px;
     display: flex;
